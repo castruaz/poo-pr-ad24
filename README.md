@@ -100,3 +100,9 @@
 - p54_ArribaAbajo
 - p55_SumaParesImpares
 - p56_SumaPromedio
+
+## Actividad 10 - Ejeución repetitiva parte 4 - Miércoles 3 de Septimebre de 2024
+- p57_TablasMultiplicar
+- p58_Piramide
+- p59_FactorialNumeros
+- p60_SumaTerminos
