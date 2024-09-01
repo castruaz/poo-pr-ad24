@@ -87,9 +87,16 @@
 - p46_TablaConversion
 - p47_ConjeturaCollatz
 
-
-## Practica 3 - Ejecución repetitiva
+ 
+## Practica 3 - Ejecución repetitiva - Lines 1 de septiembre 2024
 - p48_ImparesAscendente  
 - p49_ParesDescendente  
 - p50_ConversionTemperaturas
 - p51_SerieFibonaci
+
+## Actividad 9 - Ejecución repetitiva parte 3 - Martes 2 septiembre 2024
+- p52_Numeros1aN 
+- p53_NumerosNa1 
+- p54_ArribaAbajo
+- p55_SumaParesImpares
+- p56_SumaPromedio
