@@ -106,3 +106,10 @@
 - p58_Piramide
 - p59_FactorialNumeros
 - p60_SumaTerminos
+
+## Practica 4 - Ejecución repetitiva - for - Jueves 4 de septiembre de 2024
+- p61_SecuenciaNumeros1
+- p62_SecuenciaNumeros2
+- p63_SumaTerminos1
+- p64_SumaTerminos2
+
