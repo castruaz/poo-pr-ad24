@@ -86,30 +86,35 @@
 - p45_ImparesDescendente
 - p46_TablaConversion
 - p47_ConjeturaCollatz
-
  
-## Practica 3 - Ejecución repetitiva - Lines 1 de septiembre 2024
+## Practica 3 - Ejecución repetitiva - Lunes 2 de septiembre 2024
 - p48_ImparesAscendente  
 - p49_ParesDescendente  
 - p50_ConversionTemperaturas
 - p51_SerieFibonaci
 
-## Actividad 9 - Ejecución repetitiva parte 3 - Martes 2 septiembre 2024
+## Actividad 9 - Ejecución repetitiva parte 3 - Martes 3 septiembre 2024
 - p52_Numeros1aN 
 - p53_NumerosNa1 
 - p54_ArribaAbajo
 - p55_SumaParesImpares
 - p56_SumaPromedio
 
-## Actividad 10 - Ejeución repetitiva parte 4 - Miércoles 3 de Septimebre de 2024
+## Actividad 10 - Ejeución repetitiva parte 4 - Miércoles 4 de Septimebre de 2024
 - p57_TablasMultiplicar
 - p58_Piramide
 - p59_FactorialNumeros
 - p60_SumaTerminos
 
-## Practica 4 - Ejecución repetitiva - for - Jueves 4 de septiembre de 2024
+## Practica 4 - Ejecución repetitiva - for - Jueves 5 de septiembre de 2024
 - p61_SecuenciaNumeros1
 - p62_SecuenciaNumeros2
 - p63_SumaTerminos1
 - p64_SumaTerminos2
+
+## Práctica 5 - Repaso para el Primer Parcial - Lunes 9 de Septiembre de 2024
+- p65-RepasoExamenParcial1
+
+## Actividad 11 - Funciones Parte 1 - Miércoles 11 de Septiembre de 2024
+- p66-
 
