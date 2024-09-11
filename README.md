@@ -116,5 +116,15 @@
 - p65-RepasoExamenParcial1
 
 ## Actividad 11 - Funciones Parte 1 - Miércoles 11 de Septiembre de 2024
-- p66-
+- p66_PromedioNumeros
+- p67_ConversionTemperaturas
+- p68_SumaRango
+- p69_TablaMultiplicar
+- p70_CalificacionLetra
 
+## Actividad 12
+- p71_MayorTresNumeros
+- p72_SumaDigitos
+- p73_SumaParesImpares
+- p74_Factorial
+- p75_CuadroCaracter  
