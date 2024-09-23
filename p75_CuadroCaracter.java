@@ -24,6 +24,4 @@ public class p75_CuadroCaracter {
 
         Cuadro(ren,col,car);
     }
-    
-
 }

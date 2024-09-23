@@ -128,3 +128,41 @@
 - p73_SumaParesImpares
 - p74_Factorial
 - p75_CuadroCaracter  
+
+## Practica 6 - Funciones - Miércoles 18 de Septiembre de 2024
+- p76_NumeroMenor
+- p77_DiaSemana  
+- p78_MedidasLongitud  
+- p79_SumaMultiplos
+- p80_Angulo
+
+## Actividad 13 - Arreglos Parte 1 - 19 de Septiembre de 2024
+- p81_InicializaArregloNumeros
+- p82_InicializaArregloCadenas
+- p83_InicializaNombresEdades
+- p84_LeerArregloCalificaciones
+- p85_NombresEdades
+
+## Actividad 14 - Arreglos Parte 2 - Lunes 23 de Septiembre de 2024
+- p86_ArregloMostrar
+- p87_ArregloTemperaturas
+- p88_Aleatorios
+- p89_ArregloAleatorios
+
+## Practica 7 - Arreglos - Martes 24 de Septiembre de 2024
+- p90_Temperaturas
+- p91_MayoresPromedio
+- p92_MayorMenor
+- p93_ParesImpares 
+
+## Actividad 15 - POO 1 - Clases y Objetos - Miércoles 25 de Septiembre de 2024
+- p094_Empleado01
+- p095_Empleado02
+- p096_Empleado03
+- p097_Empleado04
+
+## Practica 8 - POO Parte 1 - Jueves 26 de Septiembre de 2024
+- p098_Circulo
+- p099_Rectangulo
+- p100_Articulo 
+
