@@ -166,5 +166,19 @@
 - p099_Rectangulo
 - p100_Articulo 
 
-  
+## Actividad 16 - POO - Composición  - Lunes 30 de Septimebre de 2024
+- p101_TrabajoPersona
+- p102_AutorLibro
+- p103_ClienteFactura
 
+## Practica 9 - POO Parte 2 - Miercoles 2 
+- p104_PuntoCirculo
+- p105_PuntoTriangulo
+
+## Actividad 17 - POO - Herencia y Abstraccion - Lunes 14 de Octubre
+- p106_Persona
+- p107_Forma 
+
+## Practica 10 -  POO - Herencia y Abstraccion - Martes 15 de Octubre
+- p108_Vehiculo
+- p109_FormaV2
