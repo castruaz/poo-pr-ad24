@@ -175,10 +175,13 @@
 - p104_PuntoCirculo
 - p105_PuntoTriangulo
 
-## Actividad 17 - POO - Herencia y Abstraccion - Lunes 14 de Octubre
+## Actividad 17 - POO - Herencia y Abstraccion - Lunes 7 de Octubre
 - p106_Persona
 - p107_Forma 
 
-## Practica 10 -  POO - Herencia y Abstraccion - Martes 15 de Octubre
+## Practica 10 -  POO - Herencia y Abstraccion - Martes 8 de Octubre
 - p108_Vehiculo
 - p109_FormaV2
+
+## Actividad 19 - POO - Cuenta Bancaria V1 - Miercoles 9 de Octubre 
+- p110_CuentaBancariaV1
