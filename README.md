@@ -185,3 +185,6 @@
 
 ## Actividad 19 - POO - Cuenta Bancaria V1 - Miercoles 9 de Octubre 
 - p110_CuentaBancariaV1
+
+## Actividad 20 - POO - Cuenta Bancaria V2 - Luenes 14 de Octubre
+- p111_CuentaBancariaV2
