@@ -235,3 +235,20 @@
 - p134_Archivos3
 - p135_Archivos4
 - p136_Archivos5
+
+## Practica 14
+- p137_ArchivoMunicipios
+- p138_ArchivoMaterias
+- p139_ArchivoEstudiante
+
+## Actividad 24
+- p140_HolaMundoGUI
+- p141_AreaTrianguloGUI
+- p142_LeyDeNewtonGUI
+
+## Practica 14
+- p143_PagaTrabjador
+- p144_Temperaturas
+
+## Actividad 25
+- p145_EstudianteGUI_V1
